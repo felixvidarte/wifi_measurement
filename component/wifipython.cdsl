@@ -1,9 +1,0 @@
-Component wifipython
-{
-    Communications
-    {      
-    };
-    language python;
-    gui Qt(QMainWindow);
-};
-
